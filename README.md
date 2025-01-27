@@ -1,0 +1,1 @@
+This code uses MIT's package "SCINET" (Single-Cell Imputation and NETwork construction), which aims to overcome the challenge of creating cell-type-specific interactomes with sparse/incomplete data. This code is part of a research project I worked on under Harvard University's Zitnik Lab under a PhD candidate studying cancer patients' likelihood of responding to immunotherapies.
